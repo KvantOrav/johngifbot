@@ -1,0 +1,16 @@
+{
+  "name": "john",
+  "version": "1.0.0",
+  "description": "a discord bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "orav",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "skia-canvas": "^0.9.25"
+  }
+}
