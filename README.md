@@ -7,3 +7,4 @@ To run the bot:
 	start the bot with node .
 
 Depends on discord.js, dotenv and skia-canvas.
+Also uses the Noto Color Emoji font, but that can be changed.
